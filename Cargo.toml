@@ -1,6 +1,6 @@
 [package]
 name = "rsomics-align-core"
-version = "0.1.0"
+version = "0.1.1"
 description = "Pairwise sequence alignment kernels (Smith-Waterman + Needleman-Wunsch, affine gap) for the rsomics-* tool family. Layer A primitive."
 edition = "2024"
 rust-version = "1.91"
